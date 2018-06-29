@@ -3,4 +3,4 @@
 
 
 ## Featured Project File 
-[view on GitHub](https://github.com/UnrealTalks/UnrealTalks-Sphere)
+[Moving a Sphere](https://github.com/UnrealTalks/UnrealTalks-Sphere)
