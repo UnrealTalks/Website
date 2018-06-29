@@ -1,3 +1,4 @@
-theme: jekyll-theme-hacker
+
 title: new title
 baseurl: "unrealtalks.org"
+theme: jekyll-theme-hacker
